@@ -1,1 +1,1 @@
-java -jar bin/rhino-1.7.8.jar -f main.js
+java -jar rhino-1.7.8.jar -f main.js
